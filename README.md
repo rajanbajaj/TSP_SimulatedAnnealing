@@ -30,19 +30,19 @@ optimal solution required.
 # RESULT
 Results are displayed in table:
 
-TestCase      Distance
+TestCase                   Distance
 
-Euc_100     1652.24651291062
+Euc_100                    1652.24651291062
 
-Euc_250     2730.00507528521
+Euc_250                    2730.00507528521
 
-Euc_500     3781.05805703443
+Euc_500                    3781.05805703443
 
-NonEuc_100  5324.57794986620
+NonEuc_100                 5324.57794986620
 
-NonEuc_250  13012.4409655095
+NonEuc_250                 13012.4409655095
 
-NonEuc_500  25656.5499723088 
+NonEuc_500                 25656.5499723088 
 
 # Authors
 1. Sarthak Shekhawat
