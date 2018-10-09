@@ -23,18 +23,25 @@ The probability function used is (where f is cost function):
 # SOLUTION
 To solve the given problem the Simulated Annealing is modified using a reverse
 operator to move to the next neighbor. This operator inverses the path between
-randomly selected indices ‘i’ and ‘j’. And then the probability function is used to
+randomly selected indices â€˜iâ€™ and â€˜jâ€™. And then the probability function is used to
 find probability of selecting the move. As temperature decreases we come closer to
 optimal solution required. 
 
 # RESULT
-Results are displayed in table: 
+Results are displayed in table:
+
 TestCase      Distance
+
 Euc_100     1652.24651291062
+
 Euc_250     2730.00507528521
+
 Euc_500     3781.05805703443
+
 NonEuc_100  5324.57794986620
+
 NonEuc_250  13012.4409655095
+
 NonEuc_500  25656.5499723088 
 
 # Authors
